@@ -1,10 +1,11 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+  distDir: "build",
+};
 
 module.exports = nextConfig;
 
 module.exports = {
-    // Otras configuraciones...
   
     images: {
       domains: ['imgfz.com', 'shields.io'],
