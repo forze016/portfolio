@@ -36,7 +36,7 @@ export const dataAboutSkills = [
     skills: [
       {
         title: "Java Developer",
-        date: "2022",
+        date: "2021",
       },
       {
         title: "Full Stack Developer",
@@ -55,6 +55,10 @@ export const dataAboutSkills = [
       {
         title: "Teaching Assistant ",
         date: "2023",
+      },
+      {
+        title: "Banco Comafi",
+        date: "2021 - 2022",
       },
     ],
   },
@@ -76,7 +80,7 @@ export const dataAboutSkills = [
       },
       {
         title: "Java Developer",
-        date: "Sep.2022-Ago,2023",
+        date: "Sep.2021-Ago,2023",
       },
     ],
   },
